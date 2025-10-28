@@ -5,7 +5,7 @@
 🌱 Always learning something new  
 💡 Exploring AI • CLI Tools • Automation  
 📍 Based in Indonesia  
-📫 Reach me at: [LinkedIn](www.linkedin.com/in/raditya-prabawa-362849390) • [Instagram](https://www.instagram.com/rdityap)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/raditya-prabawa-362849390/) • [Instagram](https://www.instagram.com/rdityap)
 
 ---
 
