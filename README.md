@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dittprabawa&layout=compact&theme=graywhite&hide_border=true" />
+[Stperrakis wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dittprabawa)](https://github.com/anuraghazra/github-readme-stats) />
 </p>
 
 ---
