@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A4FC&center=true&vCenter=true&width=435&lines=👋+Hi,+I'm+Ditt+Prabawa;💡+Building+AI+%26+CLI+Tools;🌙+Minimalist+by+design,+coder+by+habit" alt="Typing SVG" />
+</p>
+
 # 👋 Hi, I'm Ditt Prabawa
 
 > Minimalist by design, coder by habit.
