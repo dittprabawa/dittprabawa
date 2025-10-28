@@ -15,23 +15,6 @@
 
 ---
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dittprabawa&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=dittprabawa&theme=tokyonight&hide_border=true&v=1" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dittprabawa&layout=compact&theme=tokyonight&hide_border=true&v=1" />
-</p>
-
----
-
-<p align="center">
-  <sub>🕊️ Designed with clarity • Tokyo Night vibes</sub>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
