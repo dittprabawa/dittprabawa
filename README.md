@@ -4,6 +4,9 @@
 
 # 👋 Hi, I'm Ditt Prabawa
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+</p>
 > Minimalist by design, coder by habit.
 
 🌱 Always learning something new  
