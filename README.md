@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋 I'm Ditt Prabawa
 
-<!--
-**dittprabawa/dittprabawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Writes code. Also trauma.  
+📍 Indonesia  
+🌐 [My Website](https://dittprabawa.my.id)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dittprabawa&show_icons=true&theme=radical)
+
+## 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dittprabawa&layout=compact&theme=radical)
+
+## ⏰ WakaTime Stats (coding time)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dittprabawa&theme=radical)
+
+---
