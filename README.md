@@ -5,7 +5,7 @@
 🌱 Always learning something new  
 💡 Exploring AI • CLI Tools • Automation  
 📍 Based in Indonesia  
-📫 Reach me at: [LinkedIn](https://linkedin.com/in/dittprabawa) • [Website](https://dittprabawa.my.id)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) • [Instagram]([https://www.instagram.com/rdityap])
 
 ---
 
