@@ -19,12 +19,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dittprabawa&show_icons=true&theme=graywhite&hide_border=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=dittprabawa&theme=graywhite&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dittprabawa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=dittprabawa&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dittprabawa&layout=compact&theme=graywhite&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dittprabawa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dittprabawa&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dittprabawa&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## ⏰ WakaTime Stats (Last 7 Days)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dittprabawa&theme=graywhite&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dittprabawa&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,10 +57,8 @@
 I love connecting with developers and creatives.  
 Let’s build something amazing together 🌍
 
-📫 [LinkedIn](https://linkedin.com/in/dittprabawa) • [Website](https://dittprabawa.my.id)
-
 ---
 
 <p align="center">
-  <sub>🕊️ Designed with clarity • Updated automatically</sub>
+  <sub>🕊️ Designed with clarity • Updated automatically • Theme: Tokyo Night 🌃</sub>
 </p>
