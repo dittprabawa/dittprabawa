@@ -3,44 +3,61 @@
 > Minimalist by design, coder by habit.
 
 🌱 Always learning something new  
-💡 Currently exploring AI, CLI tools, and automation  
+💡 Exploring AI • CLI Tools • Automation  
 📍 Based in Indonesia  
 📫 Reach me at: [LinkedIn](https://linkedin.com/in/dittprabawa) • [Website](https://dittprabawa.my.id)
 
 ---
 
 ## 🧭 About Me
-- 🧰 I enjoy building tools that simplify workflows  
-- 🧠 Lifelong learner — currently focused on improving backend + AI integration  
+- 🧰 Building tools that simplify workflows  
+- 🧠 Lifelong learner — focused on backend & AI integration  
 - 🎯 Motto: *"Clean code is better than clever code."*
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dittprabawa&show_icons=true&theme=default&hide_border=true)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dittprabawa&show_icons=true&theme=graywhite&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=dittprabawa&theme=graywhite&hide_border=true" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dittprabawa&layout=compact&theme=default&hide_border=true)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dittprabawa&layout=compact&theme=graywhite&hide_border=true" />
+</p>
 
 ---
 
-## ⚡ Recent Activity
+## 🏆 GitHub Trophy
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dittprabawa&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## ⏰ WakaTime Stats (Last 7 Days)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dittprabawa&theme=graywhite&hide_border=true" />
+</p>
 
 ---
 
 ## 🧠 Currently Working On
-- 🚀 A CLI-based productivity bot  
-- 🧩 Personal AI assistant experiments  
+- 🚀 CLI-based productivity bot  
+- 🧩 AI personal assistant experiments  
 - 🧱 Learning Go & TypeScript
 
 ---
 
 ## 💬 Let’s Connect
-I love connecting with developers, designers, and anyone passionate about tech.  
+
+I love connecting with developers and creatives.  
 Let’s build something amazing together 🌍
+
+📫 [LinkedIn](https://linkedin.com/in/dittprabawa) • [Website](https://dittprabawa.my.id)
 
 ---
 
