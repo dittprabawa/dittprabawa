@@ -5,7 +5,7 @@
 🌱 Always learning something new  
 💡 Exploring AI • CLI Tools • Automation  
 📍 Based in Indonesia  
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) • [Instagram](https://www.instagram.com/rdityap)
+📫 Reach me at: [LinkedIn](www.linkedin.com/in/raditya-prabawa-362849390) • [Instagram](https://www.instagram.com/rdityap)
 
 ---
 
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-[Stperrakis wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dittprabawa)](https://github.com/anuraghazra/github-readme-stats) />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dittprabawa&layout=compact&theme=graywhite&hide_border=true" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## ⏰ WakaTime Stats (Last 7 Days)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dittprabawa&theme=graywhite&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dittprabawa&theme=graywhite&hide_border=true" />
 </p>
 
 ---
