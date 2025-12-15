@@ -28,13 +28,6 @@
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dittprabawa&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## ⏰ WakaTime Stats (Last 7 Days)
 
