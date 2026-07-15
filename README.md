@@ -38,11 +38,6 @@
 
 ---
 
-### 📌 Featured Project
-
-**[✋ Hand Gesture Recognition](https://github.com/dittprabawa/hand-gesture-recognition)**
-Real-time hand gesture recognition pakai Mediapipe + RandomForest, dilatih dari data gesture custom sendiri — lengkap dengan virtual mouse control lewat gesture pinch.
-
 ---
 
 ## 📊 GitHub Stats
