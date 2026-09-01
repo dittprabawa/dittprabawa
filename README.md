@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A4FC&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Ditt+Prabawa;%F0%9F%92%A1+Building+AI+%26+CLI+Tools;%F0%9F%8C%99+Minimalist+by+design%2C+coder+by+habit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A4FC&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Ditt+Prabawa;%F0%9F%92%A1+Building+%26+CLI+Tools;%F0%9F%8C%99+Minimalist+by+design%2C+coder+by+habit" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@
 ### 🧠 Currently Working On
 - 🖐️ Real-time hand gesture recognition (Mediapipe + custom-trained ML model)
 - 🚀 CLI-based productivity bot
-- 🤖 AI assistant experiments
 - 🧱 Learning Go & TypeScript
 
 ---
